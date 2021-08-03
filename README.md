@@ -39,8 +39,8 @@ server {
         # include snippets/snakeoil.conf;
 
         root /var/www/html;
-        
-                # Add index.php to the list if you are using PHP
+
+        # Add index.php to the list if you are using PHP
         index index.html index.htm index.nginx-debian.html;
 
         server_name _;
@@ -74,6 +74,7 @@ server {
         #location ~ /\.ht {
         #       deny all;
         #}
+
 # Virtual Host configuration for example.com
 #
 # You can move that to a different file under sites-available/ and symlink that
@@ -116,7 +117,8 @@ server {
         # Add index.php to the list if you are using PHP
         index index.html index.htm index.nginx-debian.html;
     server_name lt-2021-041.ml; # managed by Certbot
-            location / {
+
+        location / {
                 # First attempt to serve request as file, then
                 # as directory, then fall back to displaying a 404.
                 #try_files $uri $uri/ =404;
@@ -152,7 +154,8 @@ server {
         #location ~ /\.ht {
         #       deny all;
         #}
-            listen [::]:443 ssl ipv6only=on; # managed by Certbot
+
+    listen [::]:443 ssl ipv6only=on; # managed by Certbot
     listen 443 ssl; # managed by Certbot
     ssl_certificate /etc/letsencrypt/live/lt-2021-041.ml/fullchain.pem; # managed by Certbot
     ssl_certificate_key /etc/letsencrypt/live/lt-2021-041.ml/privkey.pem; # managed by Certbot
