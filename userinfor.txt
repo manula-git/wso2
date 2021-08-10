@@ -1,0 +1,352 @@
+dn: cn=Rachel Burgess,ou=permanent,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Rachel Burgess
+sn: Burgess
+employeeType: Permanent
+mail: rachel.burgess@lt.com
+mobile: 94771111112
+homePhone: 940112820002
+homePostalAddress: London
+
+dn: cn=Mary Mathis,ou=permanent,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Mary Mathis
+sn: Mathis
+employeeType: Permanent
+mail: mary.mathis@lt.com
+mobile: 94771111113
+homePhone: 940112820003
+homePostalAddress: London
+
+dn: cn=Molly Vaughan,ou=permanent,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Molly Vaughan
+sn: Vaughan
+employeeType: Permanent
+mail: molly.vaughan@lt.com
+mobile: 94771111114
+homePhone: 940112820004
+homePostalAddress: London
+
+dn: cn=Piers Duncan,ou=permanent,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Piers Duncan
+sn: Duncan
+employeeType: Permanent
+mail: piers.duncan@lt.com
+mobile: 94771111115
+homePhone: 940112820005
+homePostalAddress: London
+
+dn: cn=Dorothy Wallace,ou=permanent,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Dorothy Wallace
+sn: Wallace
+employeeType: Permanent
+mail: dorothy.wallace@lt.com
+mobile: 94771111116
+homePhone: 940112820006
+homePostalAddress: London
+
+dn: cn=Emma Clark,ou=permanent,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Emma Clark
+sn: Clark
+employeeType: Permanent
+mail: emma.clark@lt.com
+mobile: 94771111117
+homePhone: 940112820007
+homePostalAddress: London
+
+dn: cn=Tracey Mills,ou=permanent,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Tracey Mills
+sn: Mills
+employeeType: Permanent
+mail: tracey.mills@lt.com
+mobile: 94771111118
+homePhone: 940112820008
+homePostalAddress: London
+
+dn: cn=Dorothy Wilkins,ou=permanent,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Dorothy Wilkins
+sn: Wilkins
+employeeType: Permanent
+mail: dorothy.wilkins@lt.com
+mobile: 94771111119
+homePhone: 940112820009
+homePostalAddress: London
+
+dn: cn=Ava Lambert,ou=permanent,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Ava Lambert
+sn: Lambert
+employeeType: Permanent
+mail: ava.lambert@lt.com
+mobile: 94771111120
+homePhone: 940112820010
+homePostalAddress: London
+
+dn: cn=Wanda Kelly,ou=permanent,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Wanda Kelly
+sn: Kelly
+employeeType: Permanent
+mail: wanda.kelly@lt.com
+mobile: 94771111121
+homePhone: 940112820011
+homePostalAddress: London
+
+dn: cn=Blake Mills,ou=permanent,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Blake Mills
+sn: Mills
+employeeType: Permanent
+mail: blake.mills@lt.com
+mobile: 94771111122
+homePhone: 940112820012
+homePostalAddress: London
+
+dn: cn=Gordon Simpson,ou=permanent,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Gordon Simpson
+sn: Simpson
+employeeType: Permanent
+mail: gordon.simpson@lt.com
+mobile: 94771111123
+homePhone: 940112820013
+homePostalAddress: London
+
+dn: cn=Carl Manning,ou=permanent,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Carl Manning
+sn: Manning
+employeeType: Permanent
+mail: carl.manning@lt.com
+mobile: 94771111124
+homePhone: 940112820014
+homePostalAddress: London
+
+dn: cn=Grace Lee,ou=permanent,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Grace Lee
+sn: Lee
+employeeType: Permanent
+mail: grace.lee@lt.com
+mobile: 94771111125
+homePhone: 940112820015
+homePostalAddress: Berlin
+
+dn: cn=Andrew Oliver,ou=permanent,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Andrew Oliver
+sn: Oliver
+employeeType: Permanent
+mail: andrew.oliver@lt.com
+mobile: 94771111126
+homePhone: 940112820016
+homePostalAddress: Berlin
+
+dn: cn=Gabrielle Fisher,ou=permanent,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Gabrielle Fisher
+sn: Fisher
+employeeType: Permanent
+mail: gabrielle.fisher@lt.com
+mobile: 94771111127
+homePhone: 940112820017
+homePostalAddress: Berlin
+
+dn: cn=Sean Parr,ou=contractor,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Sean Parr
+sn: Parr
+employeeType: Contractor
+mail: sean.parr@lt.com
+mobile: 94771111145
+homePhone: 940112820035
+homePostalAddress: Johannesburg
+
+dn: cn=Warren Ferguson,ou=contractor,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Warren Ferguson
+sn: Ferguson
+employeeType: Contractor
+mail: warren.ferguson@lt.com
+mobile: 94771111146
+homePhone: 940112820036
+homePostalAddress: Johannesburg
+
+dn: cn=Gabrielle Vaughan,ou=contractor,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Gabrielle Vaughan
+sn: Vaughan
+employeeType: Contractor
+mail: gabrielle.vaughan@lt.com
+mobile: 94771111147
+homePhone: 940112820037
+homePostalAddress: Colombo
+
+dn: cn=Wendy Davidson,ou=contractor,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Wendy Davidson
+sn: Davidson
+employeeType: Contractor
+mail: wendy.davidson@lt.com
+mobile: 94771111148
+homePhone: 940112820038
+homePostalAddress: Colombo
+
+dn: cn=Alison Hart,ou=contractor,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Alison Hart
+sn: Hart
+employeeType: Contractor
+mail: alison.hart@lt.com
+mobile: 94771111149
+homePhone: 940112820039
+homePostalAddress: Colombo
+
+dn: cn=Jane Forsyth,ou=contractor,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Jane Forsyth
+sn: Forsyth
+employeeType: Contractor
+mail: jane.forsyth@lt.com
+mobile: 94771111150
+homePhone: 940112820040
+homePostalAddress: New York
+
+dn: cn=Ella Allan,ou=contractor,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Ella Allan
+sn: Allan
+employeeType: Contractor
+mail: ella.allan@lt.com
+mobile: 94771111151
+homePhone: 940112820041
+homePostalAddress: New York
+
+dn: cn=Paul Black,ou=contractor,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Paul Black
+sn: Black
+employeeType: Contractor
+mail: paul.black@lt.com
+mobile: 94771111152
+homePhone: 940112820042
+homePostalAddress: New York
+
+dn: cn=Natalie Green,ou=contractor,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Natalie Green
+sn: Green
+employeeType: Contractor
+mail: natalie.green@lt.com
+mobile: 94771111153
+homePhone: 940112820043
+homePostalAddress: Moscow
+
+dn: cn=Sophie King,ou=contractor,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Sophie King
+sn: King
+employeeType: Contractor
+mail: sophie.king@lt.com
+mobile: 94771111154
+homePhone: 940112820044
+homePostalAddress: Moscow
+
+dn: cn=James Scott,ou=contractor,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: James Scott
+sn: Scott
+employeeType: Contractor
+mail: james.scott@lt.com
+mobile: 94771111155
+homePhone: 940112820045
+homePostalAddress: Moscow
+
+dn: cn=Jane Brown,ou=contractor,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Jane Brown
+sn: Brown
+employeeType: Contractor
+mail: jane.brown@lt.com
+mobile: 94771111156
+homePhone: 940112820046
+homePostalAddress: Moscow
+
+dn: cn=Kevin Rees,ou=contractor,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Kevin Rees
+sn: Rees
+employeeType: Contractor
+mail: kevin.rees@lt.com
+mobile: 94771111157
+homePhone: 940112820047
+homePostalAddress: Moscow
+
+dn: cn=Brandon MacDonald,ou=contractor,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Brandon MacDonald
+sn: MacDonald
+employeeType: Contractor
+mail: brandon.macdonald@lt.com
+mobile: 94771111158
+homePhone: 940112820048
+homePostalAddress: Amsterdam
+
+dn: cn=Olivia Gill,ou=contractor,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Olivia Gill
+sn: Gill
+employeeType: Contractor
+mail: olivia.gill@lt.com
+mobile: 94771111159
+homePhone: 940112820049
+homePostalAddress: Amsterdam
+                        
+dn: cn=Lisa McLean,ou=contractor,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Lisa McLean
+sn: McLean
+employeeType: Contractor
+mail: lisa.mclean@lt.com
+mobile: 94771111160
+homePhone: 940112820050
+homePostalAddress: Amsterdam 
+
