@@ -1,3 +1,14 @@
+dn: cn=Owen Hudson,ou=permanent,dc=ltacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: Owen Hudson
+sn: Hudson
+employeeType: Permanent
+mail: owen.hudson@lt.com
+mobile: 94771111111
+homePhone: 940112820001
+homePostalAddress: London
+
 dn: cn=Rachel Burgess,ou=permanent,dc=ltacademy,dc=com
 objectclass: inetOrgPerson
 objectclass: person
@@ -338,15 +349,18 @@ mail: olivia.gill@lt.com
 mobile: 94771111159
 homePhone: 940112820049
 homePostalAddress: Amsterdam
-                        
-dn: cn=Lisa McLean,ou=contractor,dc=ltacademy,dc=com
+
+dn: cn=Lisa Mclean,ou=contractor,dc=ltacademy,dc=com
 objectclass: inetOrgPerson
 objectclass: person
-cn: Lisa McLean
-sn: McLean
+cn: Lisa Mclean
+sn: Mclean
 employeeType: Contractor
 mail: lisa.mclean@lt.com
 mobile: 94771111160
 homePhone: 940112820050
-homePostalAddress: Amsterdam 
+homePostalAddress: Amsterdam
+
+
+
 
